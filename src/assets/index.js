@@ -13,7 +13,7 @@ import light from './light.svg';
 // MY EXPORTS
 // Learning Journey
 import freeCodeCamp from './company/freeCodeCamp.jpg';
-import harvard from './company/harvard.png';
+import harvard from './company/anhuijianzhu.webp';
 import udemy from './company/udemy.png';
 import codepath from './company/codepath.jpeg';
 import nathacks from './company/nathacks.png';

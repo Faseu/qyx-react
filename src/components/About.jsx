@@ -48,32 +48,31 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <p>
-          Welcome to my profile! My name is ***, a software developer
-          dedicated to guiding you through the perils of the web and tech.
-          Technology can be scary, but it doesn't have to be. Let me help you.
+          欢迎来到我的个人主页！我是朱少龙，一名专注于前端开发和软件工程的开发者，
+          致力于通过技术为用户带来优质的产品体验。技术世界充满挑战，但这正是它的魅力所在。
         </p>
         <br />
         <p>
-          I am currently pursuing a{' '}
-          <span className="text-[]">
-            Master of Computer Science from the University of Pennsylvania
-          </span>
-          , and have expertise in{' '}
+          我毕业于{' '}
           <span className="text-[#D2691E]">
-            full-stack web development and software engineering.
+            安徽建筑大学物联网工程专业
           </span>
+          ，拥有扎实的计算机科学基础。目前专精于{' '}
+          <span className="text-[#D2691E]">
+            前端开发、Web开发和软件工程
+          </span>
+          ，在React、Vue、小程序开发等技术栈方面有丰富的实践经验。
         </p>
         <br />
         <p>
-          I come from a unique background with a Bachelor's of Science in
-          Kinesiology from the University of Alberta. As I pursued my studies, I
-          explored my passion for tech by self-teaching myself web development,
-          diving into Linux/Unix, and using cool tools like Vim.
+          在我的学业和职业生涯中，我从安徽建筑大学的计算机学习开始，逐步成长为杭州星物种机器人有限公司的
+          开发技术负责人。我主导了多个大型项目的技术实现，包括智能出纸机物联网系统平台（用户量50万+）、
+          孟想教育平台（用户量150万+）等，在物联网、教育科技、机器人控制等领域积累了丰富的项目经验。
         </p>
         <br />
         <p>
-          I am passionate, and love continuous learning. Don't be afraid to
-          reach out!
+          我热爱技术创新和持续学习，始终保持对新技术的敏锐度和学习热情。
+          如果您对我的项目或技术分享感兴趣，欢迎随时与我交流！
         </p>
       </motion.p>
 
